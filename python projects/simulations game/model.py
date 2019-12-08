@@ -61,11 +61,11 @@ def mouse_click(x,y):
     global sims
     if rkind == '':
         pass
-#     elif rkind == "Remove":
-#         temp = list(sims)
-#         for s in temp:
-#             if s.contains((x,y)):
-#                 remove(s)
+    elif rkind == "Remove":
+        temp = list(sims)
+        for s in temp:
+            if s.contains((x,y)):
+                remove(s)
     else:
         eval(f'sims.add({rkind}({x},{y}))')
 
