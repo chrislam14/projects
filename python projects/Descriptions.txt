@@ -1,0 +1,15 @@
+Simulations Game: A ball simulations game
+AnIn5: A working revservation system for a fictional Inn
+Diners6: A working fictional Diner manager system
+FunwithFunctions: Various functions that were part of an exercise
+Gradebook: A working gradebook
+HawaiianWords: Takes Hawaiian words and gave their pronounciation
+MapQuest: Gives you driving directions to get to inputed destination
+StudentAI: The partial code for a checkers AI based off of the MCTS Algorithm
+Bag.py: A bag class
+fa.py: A finite autmaton class
+instantrunoff.py: Instant runoff election system simulation
+interval.py A interval class
+ndfa.py: A non-deterministic finite autmaton class
+pcollections: exercise using regular Expressions functions
+reachable: exercise that determined whether nodes are reachable in a graph system
